@@ -1,8 +1,28 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+
+Carl Anderson
+
 2. Why are you interested in Data Science?
+
+I work for a medical data warehouse company as a sr. software engineer.  We have a data science team, which I have worked on previously as a software engineer.  This is where I became exposed to machine learning and data science.  I want to learn more about the science of data.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+
+I have been a professional software engineer for fifteen years, but I've been programming since I was 8 years old (so, 30+ years).  I have a MS in CS from the University of Chicago, where I studied algorithms and big data.  My BS in CS is from UW-Milwaukee.  I was a software engineer at Google in California for 3.5 years.  I write code at work nearly every day.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+I actually have very _little_ statistics experience.  I have never taken a statistics course in college and I consider this to be one of my biggest weaknesses.
+
 5.  Do you have other experience with R or Python?
+
+I've worked with Python for nearly 6 years, although I have very little experience with R.  The little exposure I've had with R has shown me how powerful it can be if used properly!
+
 6.  What do you hope to learn in this class?
+
+I hope to become fluent in R and gain some exposure to modules in Python that I've never used before.  I've not done much with pandas or numpy yet, so I imagine I will.
+
 7.  Is there anything else you would like to share with us?
+
+I love writing code, I love linux and I love Python.  I have been frustrated with R in the past, but I hope to finally master it.  
